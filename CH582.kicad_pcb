@@ -398,6 +398,8 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 49c1d6e0-f50a-4000-b2b8-e3e59889c021)
     )
+    (fp_rect (start 11.35 -2.0308) (end 13.7376 -2.5388)
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.Cu") (tstamp 1d72925d-acff-494d-b183-88180426c50a))
     (fp_poly
       (pts
         (xy 2.45 -2.51)
@@ -408,8 +410,8 @@
         (xy 9.15 -2.51)
         (xy 9.15 -5.15)
         (xy 11.85 -5.15)
-        (xy 11.85 -0.71)
-        (xy 11.35 -0.71)
+        (xy 11.85 -2.0308)
+        (xy 11.35 -2.0308)
         (xy 11.35 -4.65)
         (xy 9.65 -4.65)
         (xy 9.65 -2.01)
@@ -3232,7 +3234,7 @@
       (net 12 "G_RST") (pinfunction "1") (pintype "passive") (tstamp 8fc427c2-b229-42b9-a28d-27d26e6f7590))
   )
 
-  (gr_rect (start 35.814 19.3548) (end 32.4612 19.8374)
+  (gr_rect (start 34.355 16.2586) (end 34.8376 18.5192)
     (stroke (width 0) (type solid)) (fill solid) (layer "F.Cu") (tstamp 7e092175-7d62-4349-aa0b-7be3e454530e))
   (gr_poly
     (pts
