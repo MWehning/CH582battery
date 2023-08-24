@@ -4139,7 +4139,7 @@
     (property "Value" "3V3" (at 146.685 31.75 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Inductor_SMD:L_Changjiang_FNR5020S" (at 153.67 33.02 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (at 153.67 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 153.67 33.02 0)
