@@ -1,0 +1,7 @@
+fp-info-cache
+*.lck
+*.kicad_prl
+/#auto_saved_files#
+/export
+/CH582-backups
+/uv_export
