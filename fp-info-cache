@@ -1,4 +1,4 @@
-21468832929832906
+21473920314769664
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59934,12 +59934,33 @@ Yellow 5381 Series LED
 2
 2
 Library
+Antenna longer+reversed
+http://www.ti.com/lit/an/swra117d/swra117d.pdf
+PCB antenna
+0
+2
+2
+Library
 Custom Connector
 Through hole angled pin header, 2x08, 2.54mm pitch, 6mm pin length, double rows
 Through hole angled pin header THT 2x08 2.54mm double row
 0
 12
 12
+Library
+PinSocket_1x02_P2.54mm_Horizontal
+Through hole angled socket strip, 1x02, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 1x02 2.54mm single row
+0
+2
+2
+Library
+QFN 48 fixed
+
+
+0
+58
+49
 Library
 nRFDevboard
 
